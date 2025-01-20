@@ -12,7 +12,7 @@ download and run the exe, pretty simple.
 
 ### Gamesense Ui (WPF APPLICATION SO ITS SHITTY)
 
-https://github.com/burycorpse/Aimmy-guis/blob/main/adada.png
+![Gamesene ui for aimmy](https://raw.githubusercontent.com/burycorpse/Aimmy-guis/main/adada.png)
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
