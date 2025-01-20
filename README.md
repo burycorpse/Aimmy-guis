@@ -8,8 +8,7 @@ some ppl dont like the ui (like me) so i just make some for fun.
 
 ## Usage
 
-
-install and run the exe
+download and run the exe, pretty simple.
 
 ### Example
 
@@ -27,8 +26,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+https://github.com/Babyhamsta/Aimmy/blob/master/LICENSE, aimmy mods, admins, council are obsessed with their License so here it is.
 ## Acknowledgements
 
 - [Aimmy(orginal project)](https://aimmy.dev/)
