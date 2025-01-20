@@ -12,8 +12,7 @@ download and run the exe, pretty simple.
 
 ### Example
 
-Provide a screenshot or GIF showcasing the project in action.
-
+(https://github.com/burycorpse/Aimmy-guis/blob/main/adada.png
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
