@@ -10,9 +10,9 @@ some ppl dont like the ui (like me) so i just make some for fun.
 
 download and run the exe, pretty simple.
 
-### Example
+### Gamesense Ui (WPF APPLICATION SO ITS SHITTY)
 
-(https://github.com/burycorpse/Aimmy-guis/blob/main/adada.png
+https://github.com/burycorpse/Aimmy-guis/blob/main/adada.png
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
